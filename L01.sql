@@ -18,3 +18,5 @@ CREATE TABLE my_contacts
     interests VARCHAR(100),
     seeking VARCHAR(100)
 );
+
+DESC my_contracts;
