@@ -1,5 +1,7 @@
 --Commands end with; or\g
 --Type 'help' or h\ for help; Type '/c' to clear the buffer
+
+
 CREATE DATABASE gregs_list;
 
 CREATE TABLE doughnut_list
@@ -20,3 +22,4 @@ CREATE TABLE my_contacts
 );
 
 DESC my_contracts;
+？
